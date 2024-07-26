@@ -1,0 +1,21 @@
+<html> 
+    <head> 
+        <title>Drop-down Menu</title> 
+    </head> 
+    <body> 
+        <form> 
+            <!-- requires the user to enter a valid email -->
+            <label for="email"> Email add:</label> 
+            <input type="email" id="email"><br>
+
+            <br> <!-- hides sensitive information --> 
+            <label for="pass"> Password :</label> 
+            <input type="password" id="pass"><br>
+            
+            <br> <!-- requires the user to enter a phone number --> 
+            <label for="tel">Telephone:</label> 
+            <input type="tel" id="tel"><br>
+            <br> 
+        </form> 
+    </body> 
+</html>
