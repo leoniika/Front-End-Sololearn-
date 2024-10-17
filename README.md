@@ -1,1 +1,1 @@
-Kurz Übungen um meine Stufe zu sehen
+Kurze Übungen um meine Stufe zu sehen
