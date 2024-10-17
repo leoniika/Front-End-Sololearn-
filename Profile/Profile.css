@@ -1,0 +1,44 @@
+body {
+    background-color: DarkSlateGrey;
+    justify-content: center;
+}
+
+#profile {
+    text-align: center;
+    display:inline-block;
+    gap: 20px; /* فاصله بین عناصر */
+    list-style-type: none;
+    justify-content: center;
+}
+
+#streak {
+    color: lightgray;   
+    background-color: white;
+    text-align: center;
+    justify-content: center;
+    border-radius: 30px;
+    padding: 15px; /* فضای داخلی */
+    gap: 30px; /* فاصله بین عناصر */
+}
+#streak ul {
+    display:flex;
+    text-align:center;
+    gap: 35px;
+    list-style-type: none;
+}
+
+#streak p {
+    display: block;
+    text-align: center;
+}
+
+.active-day {
+    color: lightseagreen;
+}
+
+#KO {
+    border-radius: 30px;
+    text-align: center;
+    color: red;
+    background-color: aquamarine;
+}
